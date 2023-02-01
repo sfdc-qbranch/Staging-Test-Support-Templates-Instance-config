@@ -2,7 +2,6 @@
   "orgName": "Staging-Test-Support-Templates-Instance-config - Dev Org",
   "template": "0TTB0000001e8Ka",
   "instance": "GS0",
-  "edition": "Developer",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
